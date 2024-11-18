@@ -54,5 +54,6 @@ The voting machine was implemented and verified on the Nexys A7 FPGA board. Belo
 
 ## Demonstration
 
-- **Hardware Demo:** Watch the demonstration video [here](https://youtu.be/GnJFNDx90b4?si=8Qkd9Xb-p5qHk6Bx).
+- **Hardware Demo:** Watch the demonstration video below:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GnJFNDx90b4?si=8Qkd9Xb-p5qHk6Bx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
