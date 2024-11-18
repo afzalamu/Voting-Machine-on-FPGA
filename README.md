@@ -7,7 +7,7 @@ This repository showcases a **Simple Voting Machine** implemented on the Nexys A
 1. **Vote Casting:**
    - Press the corresponding button for **A**, **B**, **C**, or **D** to cast a vote.
    - Button press for **>1 second** is required for a successful vote cast.
-   - If a button is pressed again for >1 second after a vote is cast, no additional vote is recorded.
+   - If a button is kept pressed for >1 second after a vote is cast, no additional vote is recorded.
    - **Visual Feedback:** All 8 LEDs flash for 1 second upon a successful vote.
 
 2. **Mode Functionality:**
